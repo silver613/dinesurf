@@ -1,0 +1,3 @@
+*.sqlite
+*.sqlite-journal
+/database/migrations/2021_04_17_001227_create_sessions_table.php

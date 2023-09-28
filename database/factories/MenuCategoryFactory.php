@@ -1,0 +1,30 @@
+<?php
+
+namespace Database\Factories;
+
+use App\Models\MenuCategory;
+use App\Models\Vendor;
+use Illuminate\Database\Eloquent\Factories\Factory;
+
+/**
+ * @extends \Illuminate\Database\Eloquent\Factories\Factory<\App\Models\MenuCategory>
+ */
+class MenuCategoryFactory extends Factory
+{
+    protected $model = MenuCategory::class;
+
+    /**
+     * Define the model's default state.
+     *
+     * @return array<string, mixed>
+     */
+    public function definition()
+    {
+        $vendor_id = Vendor::first()->id;
+
+        return [
+            'name' => $this->faker->name,
+            'vendor_id' => $vendor_id,
+        ];
+    }
+}

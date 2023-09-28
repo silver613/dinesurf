@@ -1,0 +1,21 @@
+{
+<<<<<<< HEAD
+    "/js/app.js": "/js/app.js?id=a45414f60999ac053e10",
+=======
+<<<<<<< HEAD
+    "/js/app.js": "/js/app.js",
+    "/js/manifest.js": "/js/manifest.js",
+    "/css/rating.css": "/css/rating.css",
+    "/css/main.css": "/css/main.css",
+    "/css/app.css": "/css/app.css",
+    "/js/vendor.js": "/js/vendor.js"
+=======
+    "/js/app.js": "/js/app.js?id=f89ac9bfb02de62a6880",
+>>>>>>> dev
+    "/js/manifest.js": "/js/manifest.js?id=83d72f07a608b3271179",
+    "/css/rating.css": "/css/rating.css?id=3120ec4f3abf4c16a518",
+    "/css/main.css": "/css/main.css?id=eb3edee07c8594db57af",
+    "/css/app.css": "/css/app.css?id=c790efe80425353b7997",
+    "/js/vendor.js": "/js/vendor.js?id=aa4bdee9091797eda6c4"
+>>>>>>> dev
+}

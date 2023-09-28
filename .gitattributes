@@ -1,0 +1,10 @@
+* text=auto
+*.css linguist-vendored
+*.scss linguist-vendored
+*.js linguist-vendored
+public/css/**/* linguist-generated=true
+public/js/**/* linguist-generated=true
+public/vendor/**/* linguist-generated=true
+public/mix-manifest.json linguist-generated=true
+package-lock.json linguist-generated=true
+CHANGELOG.md export-ignore

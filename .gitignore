@@ -1,0 +1,16 @@
+/node_modules
+/public/hot
+/public/storage
+/public/build
+/storage/*.key
+/vendor
+!vendor/laravel/Jetstream/resources/views/mail/team-invitation.blade.php
+!vendor/laravel/Jetstream/src/HasProfilePhoto.php
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log

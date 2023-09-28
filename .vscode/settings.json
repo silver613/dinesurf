@@ -1,0 +1,10 @@
+{
+    "css.validate": false,
+    "less.validate": false,
+    "scss.validate": false,
+    "editor.formatOnSave": false,
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "dev"
+    ],
+    "vue.codeActions.enabled": false
+}
